@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hey 👋, This is Alec Pershick
+[![Gmail Badge](https://img.shields.io/badge/-ajpershick@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ajpershick@gmail.com)](mailto:ajpershick@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-ajpershick-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajpershick/)](https://www.linkedin.com/in/ajpershick/) [![Github Badge](https://img.shields.io/badge/-ajpershick-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ajpershick/)](https://www.github.com/ajpershick/) <p align='left'>🕸️ Javascript nerd.
+🤓 Gamer. 
 
-<!--
-**ajpershick/ajpershick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Looking to make the world a better place one line of code at a time.
 
-Here are some ideas to get you started:
+</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=ajpershick alt=ajpershick /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ajpershick&show_icons=true&include_all_commits=true)](https://github.com/ajpershick/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajpershick&layout=compact)](https://github.com/ajpershick/github-readme-stats)
+
