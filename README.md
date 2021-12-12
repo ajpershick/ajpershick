@@ -1,4 +1,4 @@
-## Hey there 👋, I'm Alec!
+# Hey there 👋, I'm Alec!
 [![Gmail Badge](https://img.shields.io/badge/-ajpershick@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ajpershick@gmail.com)](mailto:ajpershick@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-ajpershick-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajpershick/)](https://www.linkedin.com/in/ajpershick/) [![Github Badge](https://img.shields.io/badge/-ajpershick-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ajpershick/)](https://www.github.com/ajpershick/) 
 <p align='left'>
