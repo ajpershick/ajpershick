@@ -12,6 +12,6 @@ Looking to innovate the world through code.
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ajpershick alt=ajpershick /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ajpershick&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/ajpershick/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajpershick&layout=compact&count_private=true)](https://github.com/ajpershick/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ajpershick&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/ajpershick/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajpershick&layout=compact&count_private=true&theme=radical)](https://github.com/ajpershick/github-readme-stats)
 
